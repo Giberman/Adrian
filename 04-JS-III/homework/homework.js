@@ -177,8 +177,7 @@ function diaDeLaSemana(numeroDeDia) {
 
     return "Es dia Laboral";
 }
-//si bien el enunciado no dice que sea un arreglo, la tematica del homework es Array, no sabía que mezclan. Perdí tiempo. Tuve que ver las soluciones para solo
-//eliminar los brackets de numeroDeDia.
+
 
 
 function empiezaConNueve(n) {
@@ -193,7 +192,7 @@ function empiezaConNueve(n) {
 
 
 }
-//lo copié. el enunciado es horrendo y no se entiende. por otro lado hacen googlear permanentemente métodos. De nuevo no veo el arreglo y los brakets.
+//lo copié. el enunciado no se entienede mucho. Tuve que googlear el método.
 //debería decir como pista: "si el numero inicia con "9""" entre comillas el 9. ahi me doy cuenta que lo tengo que transformar a un string
 // ya que me sigue remitiendo a un entero. Entiendo que el concepto sería aplicar el conocimiento de considerar un string como un arreglo.
 
